@@ -1,0 +1,5 @@
+tesla_delivery_alert.egg-info/PKG-INFO
+tesla_delivery_alert.egg-info/SOURCES.txt
+tesla_delivery_alert.egg-info/dependency_links.txt
+tesla_delivery_alert.egg-info/entry_points.txt
+tesla_delivery_alert.egg-info/top_level.txt
